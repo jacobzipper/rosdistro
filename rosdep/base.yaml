@@ -2708,7 +2708,7 @@ libreadline-java:
   fedora: [libreadline-java]
   gentoo: [dev-java/libreadline-java]
   ubuntu: [libreadline-java]
-librealsense-dev:
+librealsense:
   fedora: [librealsense-devel]
   ubuntu: [librealsense-dev]
 libsensors4-dev:
